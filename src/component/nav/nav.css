@@ -1,0 +1,43 @@
+nav {
+  justify-content: space-between;
+  display: flex;
+  padding: 1.5rem 0rem 0rem 0rem;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 1rem;
+  position: relative;
+}
+/* .nav_pos {
+  position: fixed;
+} */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: flex;
+  gap: 2rem;
+  justify-content: space-between;
+}
+
+/* li {
+    float: left;
+  } */
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+.buttons_in {
+  display: flex;
+  gap: 1rem;
+}

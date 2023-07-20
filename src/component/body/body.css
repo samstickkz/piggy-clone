@@ -1,0 +1,42 @@
+.body_main {
+  padding: 10rem 0rem 0 0rem;
+  z-index: 2;
+  left: 50%;
+  justify-content: space-between;
+  bottom: 2rem;
+ 
+  margin-left: 10%;
+  margin-right: 10%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+h1 {
+  font-size: xx-large;
+}
+.body_p {
+  margin-top: 2rem;
+  line-height: 2;
+  font-size: large;
+}
+.body_btn {
+  margin-top: 1rem;
+  display: flex;
+  gap: 1rem;
+  /* background: crimson; */
+}
+
+.body_content {
+  /* display: flex; */
+  /* justify-content: space-between; */
+  /* align-items: center; */
+}
+
+.left_part {
+    
+  }
+  
+  .right_part {
+    display: flex;
+    float: right;
+  }

@@ -1,0 +1,35 @@
+.security_box {
+  margin-left: 10%;
+  margin-right: 10%;
+  display: flex;
+  margin-top: 15%;
+  align-items: center;
+  margin-bottom: 15%;
+  gap: 1rem;
+}
+
+.box_white {
+  width: 100px;
+  height: 100px;
+  background: #f2f7f8;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 1rem;
+  margin-right: 1rem;
+}
+.learn_more {
+  margin: 2rem 0 2rem 0;
+  line-height: 1.2rem;
+}
+
+small {
+ 
+}
+.pi_arrow {
+    font-size: large;
+    font-weight: 700;
+  gap: 1rem;
+  display: flex;
+}
